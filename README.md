@@ -1,5 +1,4 @@
 # PORTFOLIO-APP 
-[![Build Status](https://travis-ci.org/dbarochiya/me.svg?branch=master)](https://travis-ci.org/dbarochiya/me)
 
 - To run this project follow these steps , 
   - clone the repo using `git clone`
